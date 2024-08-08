@@ -43,14 +43,14 @@ Red Hat Developer Hub is an enterprise grade developer portal. Red Hat Developer
 
 ## Getting Started
 
-1. **Explore Backstage**: Visit the [Backstage GitHub repository](https://github.com/backstage/backstage) to learn more about the platform.
-2. **Set Up**: Follow the documentation to set up your own instance of Backstage.
+1. **Explore Developer Hub**: Visit the [Red Hat Developer Hub website](https://developers.redhat.com/rhdh/overview) to learn more about the platform.
+2. **Set Up**: Follow the documentation to set up your own instance of Developer Hub.
 3. **Customize**: Add plugins and customize the platform to fit your organization's needs.
-4. **Onboard Teams**: Introduce development teams to Backstage and provide training on how to use it effectively.
-5. **Contribute**: Join the Backstage community to contribute to the project and share your experiences.
+4. **Onboard Teams**: Introduce development teams to Developer Hub and provide training on how to use it effectively.
+5. **Contribute**: Join the Developer Hub community to contribute to the project and share your experiences.
 
 ## Conclusion
 
-Red Hat Developer Hub is a powerful platform that simplifies the management of developer resources and internal services. By providing a centralized and customizable portal, Backstage enhances productivity, collaboration, and consistency within development teams. Its extensible architecture and comprehensive features make it an invaluable tool for organizations of all sizes.
+Red Hat Developer Hub is a powerful platform that simplifies the management of developer resources and internal services. By providing a centralized and customizable portal, Developer Hub enhances productivity, collaboration, and consistency within development teams. Its extensible architecture and comprehensive features make it an invaluable tool for organizations of all sizes.
 
 For more information, visit the [Red Hat Developer Hub](https://developers.redhat.com/rhdh/overview) website.
