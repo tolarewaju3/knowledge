@@ -43,7 +43,7 @@ Red Hat Developer Hub is an enterprise grade developer portal. Red Hat Developer
 
 ## Getting Started
 
-1. **Explore Developer Hub**: Visit the [Red Hat Developer Hub website](https://developers.redhat.com/rhdh/overview) to learn more about the platform.
+1. **Explore Red Hat Developer Hub**: Visit the [Red Hat Developer Hub website](https://developers.redhat.com/rhdh/overview) to learn more about the platform.
 2. **Set Up**: Follow the documentation to set up your own instance of Developer Hub.
 3. **Customize**: Add plugins and customize the platform to fit your organization's needs.
 4. **Onboard Teams**: Introduce development teams to Developer Hub and provide training on how to use it effectively.
